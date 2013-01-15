@@ -48,4 +48,10 @@
 		"date"		"1358223864"
 		"addr"		"188.165.211.23:2015"
 	}
+	"server"
+	{
+		"name"		"Void Gaming, 24/7 Goldrush #1, Illionis"
+		"date"		"1358273143"
+		"addr"		"64.79.106.137:2004"
+	}
 }
