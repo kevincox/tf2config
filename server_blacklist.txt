@@ -1,0 +1,45 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"Jujump iT [www.tf2jump.com]"
+		"date"		"1353039762"
+		"addr"		"74.91.113.66:27015"
+	}
+	"server"
+	{
+		"name"		"Valve Payload Server (srcds139.iad-2.valve.net #13)"
+		"date"		"1353104593"
+		"addr"		"208.78.165.66:27027"
+	}
+	"server"
+	{
+		"name"		"Decent Teammates 24/7 2Fort with Instant Respawn"
+		"date"		"1354498323"
+		"addr"		"68.232.171.163:27015"
+	}
+	"server"
+	{
+		"name"		"Sean's 2Fort #2"
+		"date"		"1354657551"
+		"addr"		"64.79.106.130:2009"
+	}
+	"server"
+	{
+		"name"		"    skial.com | 2FORT | NY 2"
+		"date"		"1354661766"
+		"addr"		"108.61.46.59:27015"
+	}
+	"server"
+	{
+		"name"		"Pony Payload"
+		"date"		"1357918814"
+		"addr"		"64.79.106.158:2001"
+	}
+	"server"
+	{
+		"name"		"Void Gaming, 24/7 Badwater #2, Illionis"
+		"date"		"1358139288"
+		"addr"		"64.79.106.137:2007"
+	}
+}
