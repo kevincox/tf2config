@@ -54,4 +54,16 @@
 		"date"		"1358273143"
 		"addr"		"64.79.106.137:2004"
 	}
+	"server"
+	{
+		"name"		"Void Gaming, 24/7 Dustbowl #1, Illionis"
+		"date"		"1358304439"
+		"addr"		"64.79.106.137:2002"
+	}
+	"server"
+	{
+		"name"		"Dealing Dustbowl 247"
+		"date"		"1358306841"
+		"addr"		"64.79.106.130:2003"
+	}
 }
