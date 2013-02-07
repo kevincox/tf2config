@@ -2,3 +2,4 @@ config.cfg
 motd_entries.txt
 settings.scr
 
+server_blacklist.txt
