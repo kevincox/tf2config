@@ -3,4 +3,9 @@ motd_entries.txt
 settings.scr
 
 server_blacklist.txt
+<<<<<<< HEAD
 .*.kate-swp
+=======
+config.cfg
+user.scr
+>>>>>>> afa37cb71f66b69f10b416ebbf73856da5d9f4df
