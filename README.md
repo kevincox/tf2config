@@ -7,10 +7,7 @@ weapon system that allows you to bind arbitrary actions on weapon switching
 
 ## Setting it up.
 
-Just clone the folder into your `$TF2_ROOT/custom/` directory and add
-`'+alias k_todo exec m_playing'` to your TF2 command line (the quotes are
-important).  If you want to use a different mode just change `m_playing` to
-something else (like `m_recording`).
+Just clone the folder into `~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom/` (substitute the correct TF2 directory on Windows) and add `'+alias k_todo exec m_playing'` to your TF2 command line (the quotes are important).  If you want to use a different mode just change `m_playing` to something else (like `m_recording`).
 
 ## Weapon Switching
 
